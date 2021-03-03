@@ -250,7 +250,6 @@
 			"defaultValue": 2,
 			"readOnly": true,
 			"writeOnly": false,
-			"allowManualEntry": false,
 			"options": [
 				{
 					"label": "calibration was successful",

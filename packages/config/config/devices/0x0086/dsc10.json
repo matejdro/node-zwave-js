@@ -151,7 +151,6 @@
 			"defaultValue": 0,
 			"readOnly": true,
 			"writeOnly": false,
-			"allowManualEntry": true,
 			"options": [
 				{
 					"label": "Aeon Labs",

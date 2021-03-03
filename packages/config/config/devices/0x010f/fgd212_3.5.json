@@ -216,7 +216,6 @@
 			"defaultValue": 0,
 			"readOnly": true,
 			"writeOnly": false,
-			"allowManualEntry": false,
 			"options": [
 				{
 					"label": "No calibration or manual settings",
@@ -565,7 +564,6 @@
 			"defaultValue": 0,
 			"readOnly": true,
 			"writeOnly": false,
-			"allowManualEntry": false,
 			"options": [
 				{
 					"label": "leading edge control",
@@ -611,7 +609,6 @@
 			"defaultValue": 0,
 			"readOnly": true,
 			"writeOnly": false,
-			"allowManualEntry": false,
 			"options": [
 				{
 					"label": "Load recognized as dimmable",

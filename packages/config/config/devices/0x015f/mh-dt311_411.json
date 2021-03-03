@@ -467,8 +467,7 @@
 			"defaultValue": 0,
 			"unsigned": true,
 			"readOnly": true,
-			"writeOnly": false,
-			"allowManualEntry": false
+			"writeOnly": false
 		},
 		"65": {
 			"label": "Overloaded Volts Detected",
@@ -479,8 +478,7 @@
 			"defaultValue": 0,
 			"unsigned": true,
 			"readOnly": true,
-			"writeOnly": false,
-			"allowManualEntry": false
+			"writeOnly": false
 		},
 		"66": {
 			"label": "Overloaded Watts Detected",
@@ -491,8 +489,7 @@
 			"defaultValue": 0,
 			"unsigned": true,
 			"readOnly": true,
-			"writeOnly": false,
-			"allowManualEntry": false
+			"writeOnly": false
 		},
 		"67": {
 			"label": "Overload Duration",
@@ -503,8 +500,7 @@
 			"defaultValue": 0,
 			"unsigned": true,
 			"readOnly": true,
-			"writeOnly": false,
-			"allowManualEntry": false
+			"writeOnly": false
 		},
 		"255": {
 			"label": "Factory Reset",

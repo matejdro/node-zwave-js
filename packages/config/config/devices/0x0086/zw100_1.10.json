@@ -351,8 +351,7 @@
 			"defaultValue": 0,
 			"unsigned": true,
 			"readOnly": true,
-			"writeOnly": false,
-			"allowManualEntry": true
+			"writeOnly": false
 		},
 		"64": {
 			"label": "Default unit of the automatic temperature report",
@@ -683,7 +682,6 @@
 			"defaultValue": 0,
 			"readOnly": true,
 			"writeOnly": false,
-			"allowManualEntry": false,
 			"options": [
 				{
 					"label": "Asleep",
@@ -703,7 +701,6 @@
 			"defaultValue": 0,
 			"readOnly": true,
 			"writeOnly": false,
-			"allowManualEntry": false,
 			"options": [
 				{
 					"label": "USB",

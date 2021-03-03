@@ -58,8 +58,7 @@
 			"maxValue": 0,
 			"defaultValue": 0,
 			"readOnly": true,
-			"writeOnly": false,
-			"allowManualEntry": true
+			"writeOnly": false
 		},
 		"3": {
 			"label": "Utility Lock",
@@ -82,7 +81,6 @@
 			"defaultValue": 0,
 			"readOnly": true,
 			"writeOnly": false,
-			"allowManualEntry": false,
 			"options": [
 				{
 					"label": "Powered by C-Wire",

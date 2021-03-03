@@ -73,7 +73,6 @@
 			"unsigned": true,
 			"readOnly": true,
 			"writeOnly": false,
-			"allowManualEntry": false,
 			"options": [
 				{
 					"label": "Black",

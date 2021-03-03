@@ -87,8 +87,7 @@
 			"maxValue": 100,
 			"defaultValue": 1,
 			"readOnly": true,
-			"writeOnly": false,
-			"allowManualEntry": true
+			"writeOnly": false
 		},
 		"39": {
 			"label": "Unknown state alarm mode",
@@ -132,8 +131,7 @@
 			"maxValue": 16,
 			"defaultValue": 0,
 			"readOnly": true,
-			"writeOnly": false,
-			"allowManualEntry": true
+			"writeOnly": false
 		},
 		"43": {
 			"label": "Play or Pause ringtone",
@@ -167,8 +165,7 @@
 			"maxValue": 500,
 			"defaultValue": 0,
 			"readOnly": true,
-			"writeOnly": false,
-			"allowManualEntry": true
+			"writeOnly": false
 		},
 		"47": {
 			"label": "Button definition",

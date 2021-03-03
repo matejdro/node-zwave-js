@@ -38,7 +38,6 @@
 			"unsigned": true,
 			"readOnly": true,
 			"writeOnly": false,
-			"allowManualEntry": false,
 			"options": [
 				{
 					"label": "Turns the main LED OFF",

@@ -365,7 +365,6 @@
 			"defaultValue": 0,
 			"readOnly": true,
 			"writeOnly": false,
-			"allowManualEntry": false,
 			"options": [
 				{
 					"label": "There is no Pairing Button Mode being triggered.",
@@ -393,7 +392,6 @@
 			"defaultValue": 0,
 			"readOnly": true,
 			"writeOnly": false,
-			"allowManualEntry": false,
 			"options": [
 				{
 					"label": "There is no paired Button .",
@@ -1567,7 +1565,6 @@
 			"defaultValue": 0,
 			"readOnly": true,
 			"writeOnly": false,
-			"allowManualEntry": true,
 			"options": [
 				{
 					"label": "Button is Unpaired",
@@ -1584,7 +1581,6 @@
 			"defaultValue": 0,
 			"readOnly": true,
 			"writeOnly": false,
-			"allowManualEntry": true,
 			"options": [
 				{
 					"label": "Button is Unpaired",
@@ -1600,7 +1596,6 @@
 			"defaultValue": 0,
 			"readOnly": true,
 			"writeOnly": false,
-			"allowManualEntry": true,
 			"options": [
 				{
 					"label": "Button is unpaired.",
@@ -1617,7 +1612,6 @@
 			"defaultValue": 0,
 			"readOnly": true,
 			"writeOnly": false,
-			"allowManualEntry": true,
 			"options": [
 				{
 					"label": "Button is unpaired.",
@@ -1633,7 +1627,6 @@
 			"defaultValue": 0,
 			"readOnly": true,
 			"writeOnly": false,
-			"allowManualEntry": true,
 			"options": [
 				{
 					"label": "Button is unpaired.",
@@ -1650,7 +1643,6 @@
 			"defaultValue": 0,
 			"readOnly": true,
 			"writeOnly": false,
-			"allowManualEntry": true,
 			"options": [
 				{
 					"label": "Button is unpaired.",

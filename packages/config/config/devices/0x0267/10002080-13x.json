@@ -75,7 +75,6 @@
 			"defaultValue": 60,
 			"readOnly": true,
 			"writeOnly": false,
-			"allowManualEntry": false,
 			"options": [
 				{
 					"label": "Sets the UP time in seconds",
@@ -171,7 +170,6 @@
 			"defaultValue": 0,
 			"readOnly": true,
 			"writeOnly": false,
-			"allowManualEntry": false,
 			"options": [
 				{
 					"label": "Bit 0: Load is OFF",
@@ -200,7 +198,6 @@
 			"unsigned": true,
 			"readOnly": true,
 			"writeOnly": false,
-			"allowManualEntry": false,
 			"options": [
 				{
 					"label": "Calibration is not required.",

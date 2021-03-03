@@ -78,7 +78,6 @@
 			"unsigned": true,
 			"readOnly": true,
 			"writeOnly": false,
-			"allowManualEntry": false,
 			"options": [
 				{
 					"label": "Clamp placed Correctly",

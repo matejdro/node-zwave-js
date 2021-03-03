@@ -205,8 +205,7 @@
 			"defaultValue": 0,
 			"unsigned": true,
 			"readOnly": true,
-			"writeOnly": false,
-			"allowManualEntry": true
+			"writeOnly": false
 		},
 		"252": {
 			"label": "Enable\\/disable Configuration Lock",

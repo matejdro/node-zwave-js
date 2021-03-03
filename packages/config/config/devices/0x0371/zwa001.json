@@ -30,7 +30,6 @@
 			"defaultValue": 1,
 			"readOnly": true,
 			"writeOnly": false,
-			"allowManualEntry": false,
 			"options": [
 				{
 					"label": "Disable",
@@ -51,7 +50,6 @@
 			"defaultValue": 2700,
 			"readOnly": true,
 			"writeOnly": false,
-			"allowManualEntry": true,
 			"options": [
 				{
 					"label": "Warm White(0x0A8C(2700k) ~ 0x1387 (4999k))",
@@ -68,7 +66,6 @@
 			"defaultValue": 6500,
 			"readOnly": true,
 			"writeOnly": false,
-			"allowManualEntry": true,
 			"options": [
 				{
 					"label": "Cold White (0x1388 (5000k) ~ 0x1964 (6500k))",

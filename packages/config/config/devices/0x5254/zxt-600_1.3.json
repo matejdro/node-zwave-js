@@ -42,8 +42,7 @@
 			"maxValue": 4,
 			"defaultValue": 4,
 			"readOnly": true,
-			"writeOnly": false,
-			"allowManualEntry": true
+			"writeOnly": false
 		},
 		"27": {
 			"label": "Set IR Code Number from built-in code library",

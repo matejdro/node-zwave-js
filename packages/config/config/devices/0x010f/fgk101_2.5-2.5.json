@@ -268,7 +268,6 @@
 			"unsigned": true,
 			"readOnly": true,
 			"writeOnly": false,
-			"allowManualEntry": false,
 			"options": [
 				{
 					"label": "DS18B20 is working properly",

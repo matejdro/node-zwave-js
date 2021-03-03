@@ -66,8 +66,7 @@
 			"maxValue": 0,
 			"defaultValue": 0,
 			"readOnly": true,
-			"writeOnly": false,
-			"allowManualEntry": true
+			"writeOnly": false
 		},
 		"39": {
 			"label": "Low Battery Threshold",
@@ -128,8 +127,7 @@
 			"maxValue": 1,
 			"defaultValue": 0,
 			"readOnly": true,
-			"writeOnly": false,
-			"allowManualEntry": true
+			"writeOnly": false
 		},
 		"86": {
 			"label": "Enable/Disable the buzzer",
@@ -289,8 +287,7 @@
 			"maxValue": 0,
 			"defaultValue": 0,
 			"readOnly": true,
-			"writeOnly": false,
-			"allowManualEntry": true
+			"writeOnly": false
 		},
 		"252": {
 			"label": "Lock configuration",
@@ -320,7 +317,6 @@
 			"defaultValue": 1,
 			"readOnly": true,
 			"writeOnly": false,
-			"allowManualEntry": false,
 			"options": [
 				{
 					"label": "do nothing",

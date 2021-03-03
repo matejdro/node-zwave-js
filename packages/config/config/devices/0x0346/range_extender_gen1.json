@@ -90,8 +90,7 @@
 			"maxValue": 255,
 			"unsigned": true,
 			"readOnly": true,
-			"writeOnly": false,
-			"allowManualEntry": false
+			"writeOnly": false
 		}
 	},
 	"metadata": {
